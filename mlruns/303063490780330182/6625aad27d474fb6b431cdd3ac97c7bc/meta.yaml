@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/303063490780330182/6625aad27d474fb6b431cdd3ac97c7bc/artifacts
+end_time: 1759589243534
+entry_point_name: ''
+experiment_id: '303063490780330182'
+lifecycle_stage: active
+run_id: 6625aad27d474fb6b431cdd3ac97c7bc
+run_name: nervous-foal-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759589201158
+status: 3
+tags: []
+user_id: singh
