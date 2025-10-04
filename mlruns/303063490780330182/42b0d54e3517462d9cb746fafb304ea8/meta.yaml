@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/303063490780330182/42b0d54e3517462d9cb746fafb304ea8/artifacts
+end_time: 1759586357768
+entry_point_name: ''
+experiment_id: '303063490780330182'
+lifecycle_stage: active
+run_id: 42b0d54e3517462d9cb746fafb304ea8
+run_name: receptive-crane-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759586346846
+status: 3
+tags: []
+user_id: singh
