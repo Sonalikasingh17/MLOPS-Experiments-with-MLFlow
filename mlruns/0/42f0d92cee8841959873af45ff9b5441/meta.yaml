@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/42f0d92cee8841959873af45ff9b5441/artifacts
+end_time: 1759582569986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42f0d92cee8841959873af45ff9b5441
+run_name: illustrious-toad-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759582569803
+status: 3
+tags: []
+user_id: singh

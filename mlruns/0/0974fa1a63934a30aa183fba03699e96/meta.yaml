@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0974fa1a63934a30aa183fba03699e96/artifacts
+end_time: 1759582981308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0974fa1a63934a30aa183fba03699e96
+run_name: clean-vole-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759582981239
+status: 3
+tags: []
+user_id: singh
