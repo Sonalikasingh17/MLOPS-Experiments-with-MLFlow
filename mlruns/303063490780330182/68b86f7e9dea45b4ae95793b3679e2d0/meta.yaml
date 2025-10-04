@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/303063490780330182/68b86f7e9dea45b4ae95793b3679e2d0/artifacts
+end_time: 1759584871730
+entry_point_name: ''
+experiment_id: '303063490780330182'
+lifecycle_stage: active
+run_id: 68b86f7e9dea45b4ae95793b3679e2d0
+run_name: omniscient-flea-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759584871230
+status: 3
+tags: []
+user_id: singh

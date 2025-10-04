@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/864796ab45214fc68236c289964a0404/artifacts
+end_time: 1759584566503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 864796ab45214fc68236c289964a0404
+run_name: languid-moose-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759584565872
+status: 3
+tags: []
+user_id: singh

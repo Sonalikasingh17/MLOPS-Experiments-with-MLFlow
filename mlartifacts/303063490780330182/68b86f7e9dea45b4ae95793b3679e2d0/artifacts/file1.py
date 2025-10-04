@@ -25,9 +25,6 @@ n_estimators = 8
 # Mention your experiment below
 mlflow.set_experiment('MLOPS-Exp-1')
 
-# Alternatively, you can also use below code -> 
-# with mlflow.start_run(experiment_id= "303063490780330182"):
-
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
     rf.fit(X_train, y_train)
